@@ -1,7 +1,7 @@
 # Repositorio de Java - Efrain Retana & Edie Bermúdez
 
 **Universidad Nacional (UNA)**  
-**Curso:** Programación en Java  
+**Curso:** Programación III  
 **Autores:** Efrain Retana y Edie Bermúdez  
 
 ---
